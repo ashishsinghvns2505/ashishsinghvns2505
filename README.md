@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
-<h3 align="center"> Currently a student exploring the world of Data Analytics,Passionate about turning data into insights using tools like Python, Excel, Power BI, and SQL
-  Learning how to clean, visualize, and interpret data to solve real-world problems Open to collaboration and learning opportunities. Always curious, always improving!</h3>
+<h3 align="center"> Currently a student exploring the world of Data Analytics, Passionate about turning data into insights using tools like Python, Excel, Power BI, and SQL Learning how to clean, visualize, and interpret data to solve real-world problems Open to collaboration and learning opportunities. Always curious, always improving!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
