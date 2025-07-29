@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ashish<br>🎓 Aspiring Data Analyst | Currently a student with a growing passion for data-driven decision making<br>📊 Skilled in Python, SQL, Excel, and Power BI – continuously building my toolkit through hands-on projects and learning<br>🔍 Interested in data cleaning, visualization, and deriving actionable insights from real-world datasets<br>🤝 Eager to collaborate on data projects and connect with like-minded professionals<br>📚 Lifelong learner, always open to feedback and growth opportunities
+👋 Hi, I'm Ashish<br>🎓 Aspiring Data Analyst | Currently gaining hands-on experience through an internship <br>📊 Skilled in Python, SQL, Excel, and Power BI – continuously building my toolkit through hands-on projects and learning<br>🔍 Interested in data cleaning, visualization, and deriving actionable insights from real-world datasets<br>🤝 Eager to collaborate on data projects and connect with like-minded professionals<br>📚 Lifelong learner, always open to feedback and growth opportunities
 
 
 ## 🌐 Socials:
